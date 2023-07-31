@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1VvTTznw3T4BjjKb/vjitpjJoitGV9LWQNg81lt5xQLVBQuHzpT4ge+1qIK4EC1ezg6wFrIZeuWCIp2DA6WCQ==",
+  "success": true,
+  "projectFilePath": "/Users/kamanabasukalasujakhu/Documents/Lexicon/AssetTrackingWeek30/AssetTrackingWeek30/AssetTrackingWeek30.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamanabasukalasujakhu/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/kamanabasukalasujakhu/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/kamanabasukalasujakhu/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/kamanabasukalasujakhu/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/kamanabasukalasujakhu/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5EB5DFC4-1350-4A3B-BF4E-175031FEBF24}|Default">
+  <MonoDevelop.Ide.ItemProperties.AssetTrackingWeek30 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssetTrackingWeek30/ConsoleStyler.cs">
+    <Files>
+      <File FileName="AssetTrackingWeek30/ConsoleStyler.cs" Line="233" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssetTrackingWeek30" expanded="True">
+            <Node name="AssetTrackingWeek30">
+              <Node name="ConsoleStyler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
